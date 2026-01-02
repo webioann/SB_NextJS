@@ -1,0 +1,14 @@
+.wrapper{
+    width: 50%;
+    height: 200px;
+    background-color: #ccc;
+    border: 2px solid #aaa;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color: red;
+    font-size: 50px;
+}
